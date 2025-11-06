@@ -148,8 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker]([https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker](https://ai-based-smart-expense-tracker.streamlit.app/))
-
+Project Link: (https://ai-based-smart-expense-tracker.streamlit.app/)
 ## 🙏 Acknowledgments
 
 - [Streamlit](https://streamlit.io/) for the amazing framework
