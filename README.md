@@ -148,9 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - your.email@example.com
-
-Project Link: [https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker](https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker)
+Project Link: [https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker]([https://github.com/dandekarsiddique03/AI-Based-Smart-Expense-Tracker](https://ai-based-smart-expense-tracker.streamlit.app/))
 
 ## 🙏 Acknowledgments
 
