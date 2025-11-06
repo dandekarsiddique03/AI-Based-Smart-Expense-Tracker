@@ -42,13 +42,6 @@ A powerful, AI-driven expense tracking application that helps you monitor your s
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file in the project root and add your OpenAI API key:
-   ```
-   OPENAI_API_KEY=your_openai_api_key_here
-   ```
-   
-   > **Note**: You can get an API key from [OpenAI's website](https://platform.openai.com/api-keys).
-
 ## Usage
 
 1. Start the Streamlit application:
